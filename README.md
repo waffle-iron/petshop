@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ajunior/petshop.png?label=ready&title=Ready)](https://waffle.io/ajunior/petshop)
 # PET Shop
 
 Aplicação Web para a lojinha de componentes eletrônicos do [Programa de Educação Tutorial](http://www.ifpb.edu.br/pre/programas/pet/pet) do Curso Superior de [Engenharia Elétrica](https://estudante.ifpb.edu.br/cursos/42) do [Instituto Federal de Educação, Ciência e Tecnologia da Paraíba](http://ifpb.edu.br) (__PET-EE__).
